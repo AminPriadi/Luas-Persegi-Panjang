@@ -17,4 +17,5 @@
 
         return 0;
     }
+   # Hasil
    ![img](https://raw.githubusercontent.com/AminPriadi/Luas-Persegi-Panjang/master/luas%20persegi%20panjang.png)
